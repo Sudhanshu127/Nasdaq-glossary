@@ -1,0 +1,1 @@
+curl https://www.nasdaq.com/glossary/a/ability-to-pay | sed -ne '/<div class="glossary-list-item glossary-term-data">/,/<\/div>/p' | sed 's/<[^>]*>//g' | sed -e 's/^[[:space:]]*//g' | sed '/^$/d'

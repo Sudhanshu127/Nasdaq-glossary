@@ -1,0 +1,1 @@
+Creating bash file to download all the nasdaq glossary for starting financial education.
