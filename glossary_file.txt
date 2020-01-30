@@ -1,0 +1,636 @@
+
+
+--------------------------------------
+
+A
+Fifth letter of a Nasdaq stock symbol specifying Class A shares.
+
+--------------------------------------
+
+A paper
+Another name for prime  paper.
+
+--------------------------------------
+
+A-D
+Advance-Decline, or measurement of the number of issues
+trading above their previous closing prices less the number trading below their previous closing prices over a particular
+period. As a technical measure of market
+breadth, the steepness of the AD line indicates whether a strong bull
+or bear market is under way.
+
+--------------------------------------
+
+A1
+The fifth highest rating in Moody's Long-term Corporate Obligation Rating.
+Obligations rated A1 are considered upper-medium grade and are subject to low credit risk. 
+Rating one notch higher is Aa3. Rating one notch lower is A2
+
+--------------------------------------
+
+A2
+The sixth highest rating in Moody's Long-term Corporate Obligation Rating.
+Obligations rated A2 are considered upper-medium grade and are subject to low credit risk. 
+Rating one notch higher is A1. Rating one notch lower is A3
+
+--------------------------------------
+
+A3
+The seventh highest rating in Moody's Long-term Corporate Obligation Rating.
+Obligations rated A3 are considered upper-medium grade and are subject to low credit risk. 
+Rating one notch higher is A2. Rating one notch lower is Baa1
+
+--------------------------------------
+
+Aa1
+The second highest rating in Moody's Long-term Corporate Obligation Rating.
+Obligations rated Aa1 are judged to be of high quality and are subject to very low credit risk. 
+Rating one notch higher is Aaa. Rating one notch lower is Aa2
+
+--------------------------------------
+
+Aa2
+The third highest rating in Moody's Long-term Corporate Obligation Rating.
+Obligations rated Aa2 are judged to be of high quality and are subject to very low credit risk. 
+Rating one notch higher is Aa1. Rating one notch lower is Aa3
+
+--------------------------------------
+
+Aa3
+The fourth highest rating in Moody's Long-term Corporate Obligation Rating.
+Obligations rated Aa3 are judged to be of high quality and are subject to very low credit risk. 
+Rating one notch higher is Aa2. Rating one notch lower is A1
+
+--------------------------------------
+
+Aaa
+The highest rating in Moody's Long-term Corporate Obligation Rating.
+Obligations rated Aaa are judged to be of the highest quality, with minimal credit risk. 
+Rating one notch lower is Aa1.
+
+--------------------------------------
+
+AAA+ Bank
+Refers to banks that are rated AAA by IBCA, Moodys Investor Service and Standard & Poors.
+
+--------------------------------------
+
+AAII
+See: American Association of Individual Investors
+
+--------------------------------------
+
+Abandonment
+Controlling party giving up rights to property voluntarily.
+
+--------------------------------------
+
+Abandonment option
+The option of terminating an
+investment earlier than originally planned.
+
+--------------------------------------
+
+ABC agreement
+A contract between an employee and a brokerage firm outlining the rights of the firm purchasing an NYSE membership for that employee.
+
+--------------------------------------
+
+ABCP
+See: Asset Backed Commercial Paper (ABCP)
+
+--------------------------------------
+
+Ability to pay
+Refers to the borrower's ability to make interest  and principal payments on debts.  See: Fixed charge coverage ratio.
+In context of municipal bonds, refers to the issuer's present and future ability to create sufficient tax revenue to fulfill its contractual obligations, accounting for municipal income and property values.
+In context of taxation, notion that tax rates should be determined according to income or wealth.
+
+--------------------------------------
+
+Abnormal returns
+The component of the return that is not
+due to systematic influences (market-wide influences). In other words, the abnormal returns is the difference between the actual return and that is expected to result from market movements (normal return). Related: excess returns.
+
+--------------------------------------
+
+ABO
+See: Accumulated Benefit Obligation
+
+--------------------------------------
+
+Above par
+See: Par.
+
+--------------------------------------
+
+ABS (1)
+See: Automated Bond System
+
+--------------------------------------
+
+ABS (2)
+See: Asset backed securities
+
+--------------------------------------
+
+Absolute advantage
+A person, company or country has an absolute advantage if its output per unit of input of all goods and services produced is higher than that of another person, company or country.
+
+--------------------------------------
+
+Absolute form of purchasing power parity
+A theory that prices of products of two different countries should be equal when measured by a common currency.  Also called the "law of one price."
+
+--------------------------------------
+
+Absolute Physical Life
+The period of use after which an asset has deteriorated to such an extent that it can no longer be used.
+
+--------------------------------------
+
+Absolute priority
+Rule in bankruptcy proceedings requiring senior creditors to be paid in full before junior creditors receive any payment.
+
+--------------------------------------
+
+Absorbed
+Used in context of general equities. Securities are "absorbed" as long as there are corresponding orders to buy and sell.  The market has reached the absorption point when further assimilation is impossible without an adjustment in price.  See: Sell the book.
+
+--------------------------------------
+
+Abusive tax shelter
+A limited partnership that the IRS judges to be claiming tax deductions illegally.
+
+--------------------------------------
+
+ABW
+The three-character ISO 3166 country code for ARUBA.
+
+--------------------------------------
+
+ABX index
+Index created by the firm Markit. It is based on the price of credit default swaps on the index's constituent mortgage backed securities. A decline in the the ABX Index indicates that the market associates more risk with subprime mortgages.
+
+--------------------------------------
+
+ACAT
+See: Automated Customer Account Transfer
+
+--------------------------------------
+
+Accelerated cost recovery system (ACRS)
+Schedule of depreciation
+rates allowed for tax purposes.
+
+--------------------------------------
+
+Accelerated depreciation
+Any depreciation method that
+produces larger deductions for depreciation in the early years of an
+asset's life. Accelerated cost recovery system (ACRS), which is a depreciation schedule allowed for tax purposes, is one such example.
+
+--------------------------------------
+
+Acceleration clause
+A contract stating that the unpaid balance becomes due and payable if specific actions transpire, such as failure to make interests payments on time.
+
+--------------------------------------
+
+Accelerator acquisitions
+Buying a firm very early on in its life cycle and, usually, at an inexpensive price
+
+--------------------------------------
+
+Acceptance
+Contractual agreement instigated when the drawee of a time draft "accepts" the draft by writing the word "accepted" thereon.  The drawee assumes responsibility as the acceptor and for payment at maturity.  See:  Letter of credit and banker's acceptance.
+
+--------------------------------------
+
+Accommodation
+A form of loan in which the borrower is not obligated to compensate the lender. These loans are often accompanied by accommodation bills, which guarantee that a third party compensates the lender, should the borrower be unable.  Troubled financial institutions frequently use accommodation loans.
+
+--------------------------------------
+
+Accommodation loan
+A legal agreement signed by two parties whereby one of the co-signers guarantees credit liability for the other co-signer.  Accommodation loans, often called accommodation endorsements or bills, allows the guarantor to add strength to the creditworthiness of the other party.  If the receiving party defaults on its debt, the guarantor is then responsible for the debt of the other party. See: Covenant
+
+--------------------------------------
+
+Accommodative monetary policy
+Federal Reserve System policy to increase the amount of money available to banks for lending. See: Monetary policy.
+
+--------------------------------------
+
+Account
+In the context of bookkeeping, refers to the ledger pages upon which various assets, liabilities, income, and expenses are represented.
+In the context of investment banking, refers to the status of securities sold and owned or the relationship between parties to an underwriting syndicate.
+In the context of securities, the relationship between a client and a broker/dealer firm allowing the firm's employee to be the client's buying and selling agent.  See: Account executive; account statement.
+
+--------------------------------------
+
+Account Ad Valorem Duty
+An imported merchandise tax expressed as a percentage.
+
+--------------------------------------
+
+Account balance
+Credits minus debits at the end of a reporting period.
+
+--------------------------------------
+
+Account executive
+The brokerage firm employee who handles stock orders for clients. See: Broker.
+
+--------------------------------------
+
+Account in trust
+Account managed by the account holder for another person, called the beneficiary. For example, an account opened by parents to give money to their minor children.
+
+--------------------------------------
+
+Account Party
+Party who applies to open a bank for the issuance of a letter of credit.
+
+--------------------------------------
+
+Account reconciliation
+The reviewing and adjusting of the balance in a personal checkbook to match your bank statement.
+
+--------------------------------------
+
+Account statement
+In the context of banking, refers to a summary of all balances.
+In the context of securities, a summary of all transactions and positions (long and short) between a broker/dealer and a client. See also: Option agreement.
+
+--------------------------------------
+
+Accountant&#039;s opinion
+A signed statement from an independent public accountant after examination of a firm's records and accounts.  The opinion may be unqualified or qualified.  See: Qualified opinion.
+
+--------------------------------------
+
+Accounting earnings
+Earnings of a firm as reported on its income statement.
+
+--------------------------------------
+
+Accounting exposure
+The change in the value of a firm's foreign currency-denominated accounts due to a change in exchange rates.
+
+--------------------------------------
+
+Accounting insolvency
+Total liabilities exceed total
+assets. A firm with a negative net worth is insolvent on the books.
+
+--------------------------------------
+
+Accounting liquidity
+The ease and quickness with which assets
+can be converted to cash.
+
+--------------------------------------
+
+Accounts payable
+Money owed to suppliers.
+
+--------------------------------------
+
+Accounts receivable
+Money owed by customers.
+
+--------------------------------------
+
+Accounts receivable financing
+A short-term financing method in which accounts receivable are collateral for cash advances. See:  Factoring.
+
+--------------------------------------
+
+Accounts receivable turnover
+The ratio of   net credit sales to average  accounts receivable, which is a measure of how quickly customers pay their bills.
+
+--------------------------------------
+
+Accredited investor
+Refers to an individual whose net worth, or joint net worth with a
+spouse, exceeds $1,000,000; or whose
+individual income exceeded $200,000 or whose joint income with a
+spouse exceeded $300,000 in each of the 2
+most recent years and can be expected to meet that income in the
+current year. More details of the definitions for investors other that individuals are
+found in Regulation D of the Securities and Exchange Commission.
+
+--------------------------------------
+
+Accreting Swap)
+An interest rate swap in which the notional principal amount increases over time, for example as with a construction loan provided in tranches as each stage of the project is completed.
+
+--------------------------------------
+
+Accretion (of a discount)
+In portfolio accounting, a straight-line accumulation of capital gains on a discount bond in anticipation of receipt of par at maturity.
+
+--------------------------------------
+
+Accrual Accounting Convention
+An accounting system that tries to match the recognition of revenues earned with the expenses incurred in generating those revenues. It ignores the timing of the cash flows associated with revenues and expenses.
+
+--------------------------------------
+
+Accrual basis
+In the context of accounting, practice in which expenses and income are accounted for as they are earned or incurred, whether or not they have been received or paid. Antithesis of cash basis accounting.
+
+--------------------------------------
+
+Accrual bond
+A bond on which interest accrues but is not paid to the investor during the time of accrual. The amount of accrued interest is added to the remaining principal of the bond and is paid at maturity.
+
+--------------------------------------
+
+Accrued benefits
+The pension benefits earned by an employee according to the years of the employee's service.
+
+--------------------------------------
+
+Accrued discount
+Interest that accumulates on savings bonds from the date of purchase until the date of redemption or final maturity, whichever comes first.  Series A, B, C, D, E, EE, F, I, and J are discount or accrual bonds, meaning principal and interest are paid when the bonds are redeemed. Series G, H, HH, and K are income bonds, and the semiannual interest paid to their holders is not included in accrued discount.
+
+--------------------------------------
+
+Accrued interest
+Interest that has accumulated between the most recent payment and the sale of a bond or other fixed-income security.  At the time of sale, the buyer pays the seller the bond's price plus "accrued interest," calculated by multiplying the coupon rate by the fraction of the coupon period that has elapsed since the last payment. (If a bondholder receives $40 in coupon payments per bond semiannually and sells the bond one-quarter of the way into the coupon period, the buyer pays the seller $10 as the latter's proportion of interest earned.)
+
+--------------------------------------
+
+Accrued market discount
+The rise in the market value of a discount bond as it approaches maturity (when it is redeemable at par) and not because of falling market interest rates.
+
+--------------------------------------
+
+Accumulate
+Broker/analyst recommendation that could mean slightly different things
+depending on the broker/analyst. In general, it means to increase the number of shares of a particular security over the near term, but not to liquidate other parts of the portfolio to buy a security that might skyrocket. A buy recommendation, but not an urgent buy.
+
+--------------------------------------
+
+Accumulated Benefit Obligation (ABO)
+An approximate measure of the liability of a pension plan in the event of a termination at the date the calculation is performed. Related: Projected benefit obligation.
+
+--------------------------------------
+
+Accumulated dividend
+A dividend that has reached its due date, but is not paid out. See: Cumulative preferred stock.
+
+--------------------------------------
+
+Accumulated Other Comprehensive Income (AOCI)
+A balance sheet account  that reports the total of all comprehensive income items except Net Income.
+
+--------------------------------------
+
+Accumulated profits tax
+A tax on earnings retained in a firm as a way for the principals to defer personal income taxes.
+
+--------------------------------------
+
+Accumulation
+In the context of corporate finance, refers to profits that are added to the capital base of the company rather than paid out as dividends.  See: Accumulated profits tax.
+In the context of investments, refers to the purchase by an institutional broker of a large number of shares over a period of time in order to avoid pushing the price of that share up.
+In the context of mutual funds, refers to the regular investing of a fixed amount while reinvesting dividends and capital gains.
+
+--------------------------------------
+
+Accumulation area
+A range within which a buyer accumulates shares of a stock. See: On-balance volume and distribution area.
+
+--------------------------------------
+
+ACES
+See: Advance Computerized Execution System
+
+--------------------------------------
+
+ACH
+See: Automated Clearing House
+
+--------------------------------------
+
+Acid test ratio
+Also called the quick ratio, the ratio of current assets minus inventories, accruals, and prepaid items to current liabilities.
+
+--------------------------------------
+
+Acquired surplus
+The surplus acquired when a company is purchased in a pooling of interests combination, i.e. the net worth not considered to be capital stock.
+
+--------------------------------------
+
+Acquiree
+A firm that is being acquired.
+
+--------------------------------------
+
+Acquirer
+A firm or individual that is purchasing another firm or asset.
+
+--------------------------------------
+
+Acquisition
+When a firm buys another firm.
+
+--------------------------------------
+
+Acquisition cost
+Refers to the price (including the closing costs) to purchase another company or property.
+In the context of investments, refers to price plus brokerage commissions, of a security, or the sales charge applied to load funds.  See:  Tax basis.
+
+--------------------------------------
+
+Acquisition of assets
+A merger or consolidation in which an acquirer purchases the selling firm's assets.
+
+--------------------------------------
+
+Acquisition of stock
+A merger or consolidation in which an acquirer purchases the acquiree's stock.
+
+--------------------------------------
+
+Acquittance
+A written document which releases a second party from any financial or other liability. An example of an acquittance would be a receipt indicating payment in full.
+
+--------------------------------------
+
+Across the board
+Movement or trend in the stock market that causes all stocks in all sectors to move in the same direction.
+
+--------------------------------------
+
+ACRS
+See: Accelerated cost recovery system
+
+--------------------------------------
+
+Act of Bankruptcy
+An action by a debtor that  can be a basis for creditors to file a bankruptcy petition against the debtor.  Examples of such actions are concealing assets, defrauding creditors, favoring  one creditor over another, or admitting in written a willingness to be adjudged  bankrupt.
+
+--------------------------------------
+
+Act of state doctrine
+This doctrine says that a nation is sovereign within its own borders, and its domestic actions may not be questioned in the courts of another nation.
+
+--------------------------------------
+
+Acting in concert
+Investors working together and performing identical actions to attain the same investment goal.
+
+--------------------------------------
+
+Active
+A market in which there is frequent trading.
+
+--------------------------------------
+
+Active account
+Refers to a brokerage account in which many transactions occur.  Brokerage firms may levy a fee if an account generates an inadequate level of activity.
+
+--------------------------------------
+
+Active bond crowd
+Refers to members of the bond department of the NYSE who trade the most bonds. Antithesis of cabinet crowd.
+
+--------------------------------------
+
+Active box
+Securities that are held in safekeeping and are available as collateral for securing brokers' loans or customers' margin positions.
+
+--------------------------------------
+
+Active commitments
+In the context of private equity, active commitments is an investment that has not reached the end of its legal term.
+
+--------------------------------------
+
+Active fund management
+An investment approach that purposely shifts funds either between asset classes (asset allocation), sectors (sector rotation), or between individual securities (security selection) in order to seek superior returns.
+
+--------------------------------------
+
+Active income
+Income from an active business as opposed to passive investment income according to the U.S. tax code.
+
+--------------------------------------
+
+Active Management
+The opposite of passive  management. The passive manager simply minimizes the tracking error of their  portfolio and a well known index (e.g. S&P 500 index mutual funds). The  active manager will deviate from the benchmark weights by (i) varying the  weights from the benchmark weights on the securities; (ii) adding securities  outside the benchmark or choosing not to hold securities included in the  benchmark and (iii) time-varying asset allocation where weights on certain  asset classes change through time. The goal of active management is to produce  a return that exceeds the passive return with minimal risk.
+
+--------------------------------------
+
+Active portfolio strategy
+A strategy that uses available information and forecasting techniques to seek better performance than a buy and hold portfolio. Related: Passive portfolio strategy.
+
+--------------------------------------
+
+Active Return
+Return relative to a benchmark. If a portfolio's return is 5%, and the benchmark's return is 3%, then the portfolio's active return is 2%.
+
+--------------------------------------
+
+Active Risk
+The risk (annualized standard deviation) of the active return.
+Also called the tracking error.
+
+--------------------------------------
+
+Activist Investor
+A minority shareholder who  seeks to influence decision making at a company by voicing concerns, engaging  in a dialogue with management, or lobbying other shareholders for support. The  demands could relate to changes in management, representation on the board,  acquisitions or divestitures, salaries, bonus payments, use of retained earnings etc.
+
+--------------------------------------
+
+Actual Cash Value
+Cost of replacing a  property with another of the same kind and in similar condition. Calculated as  the replacement cost less depreciation.
+
+--------------------------------------
+
+Actual market
+Used in context of general equities. Firm market.  Antithesis of Subject market.
+
+--------------------------------------
+
+Actual/360
+Day count convention for  calculating interest accrued on U.S. Treasury bills and other money market instruments. Uses actual number of days  in a month and 360 days in a year for calculating interest payments. Also see Day count convention.
+
+--------------------------------------
+
+Actual/Actual
+Day count convention for  calculating interest accrued on U.S. Treasury bonds. Uses actual number of days in a month and actual number of days  in a year for calculating interest payments. Also see Day count convention.
+
+--------------------------------------
+
+Actuals
+The physical commodities underlying a futures contract. Cash commodity, physical asset.
+
+--------------------------------------
+
+ACU
+See: Asian currency units
+
+--------------------------------------
+
+AD
+The two-character ISO 3166 country code for ANDORRA.
+
+--------------------------------------
+
+Ad valorem tax
+A type of tax calculated based on percentage of gross or stated value. For example, VAT.
+
+--------------------------------------
+
+ADB (1)
+See: Adjusted Debit Balance
+
+--------------------------------------
+
+ADB (2)
+See: Asian Development Bank
+
+--------------------------------------
+
+Additional bonds test
+A test for ensuring that bond issuers can meet the debt service requirements of issuing any new additional bonds.
+
+--------------------------------------
+
+Additional hedge
+A protection against fallout risk in the mortgage pipeline.
+
+--------------------------------------
+
+Adequacy of coverage
+A test that measures the extent to which the value of an asset is protected from potential loss either through insurance or hedging.
+
+--------------------------------------
+
+Adjustable rate
+Applies mainly to convertible securities. Refers to interest rate  or dividend that is adjusted periodically, usually according to a standard market rate outside the control of the bank or savings institution, such as that prevailing on Treasury bonds or notes.  Typically, such issues have a set floor or ceiling, called caps and collars that limits the adjustment.
+
+--------------------------------------
+
+Adjustable-rate mortgage (ARM)
+A mortgage that features predetermined adjustments of the loan interest rate at regular intervals based on an established index. The interest rate is adjusted at each interval to a rate equivalent to the index value plus a predetermined spread, or margin, over the index, usually subject to per-interval and to life-of-loan interest rate and/or payment rate caps.
+
+--------------------------------------
+
+Adjustable-rate mortgage securities (ARMS)
+Mortgage-backed securities  where the underlying asset is a pool of Adjustable rate mortgages.
+
+--------------------------------------
+
+Adjustable-rate preferred stock (ARPS)
+Publicly traded issues that may be
+collateralized by mortgages and MBS
+
+--------------------------------------
+
