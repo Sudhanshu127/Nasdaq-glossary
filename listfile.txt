@@ -1002,7 +1002,7 @@ https://www.nasdaq.com/glossary/c/c
 https://www.nasdaq.com/glossary/c/c-corporation
 https://www.nasdaq.com/glossary/c/c-corporations
 https://www.nasdaq.com/glossary/c/c.&amp;.i.
-https://www.nasdaq.com/glossary/c/ca
+https://www.nasdaq.com/glossary/c/c.a.
 https://www.nasdaq.com/glossary/c/ca
 https://www.nasdaq.com/glossary/c/caa1
 https://www.nasdaq.com/glossary/c/caa2
@@ -6339,7 +6339,7 @@ https://www.nasdaq.com/glossary/p/proxy
 https://www.nasdaq.com/glossary/p/proxy-committee
 https://www.nasdaq.com/glossary/p/proxy-committee-ballot
 https://www.nasdaq.com/glossary/p/proxy-contest
-https://www.nasdaq.com/glossary/p/proxy-flight
+https://www.nasdaq.com/glossary/p/proxy-fights
 https://www.nasdaq.com/glossary/p/proxy-fights
 https://www.nasdaq.com/glossary/p/proxy-solicitor
 https://www.nasdaq.com/glossary/p/proxy-statement
